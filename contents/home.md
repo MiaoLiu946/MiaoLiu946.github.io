@@ -1,6 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![MiaoLiu](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/MiaoLiu946)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Bachelor of Computer Science and Technology, Chengdu University of Technology.
 
 #### Email  
 <code>lerr946@gmail.com</code>  
