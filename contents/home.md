@@ -1,4 +1,4 @@
-[![MiaoLiu946](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/MiaoLiu946)
+[![MiaoLiu946](https://img.shields.io/badge/MiaoLiu-github-blue?logo=github)](https://github.com/MiaoLiu946)
 
 Bachelor of Computer Science and Technology, Chengdu University of Technology.
 
